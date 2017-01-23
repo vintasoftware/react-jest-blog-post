@@ -1,0 +1,7 @@
+exports[`test ArticleTest renders correctly 1`] = `
+<div>
+  <p>
+    A title
+  </p>
+</div>
+`;
