@@ -12,7 +12,7 @@ const article = {
   title: 'An Article',
 }
 
-test('renders correctly', () => {
+test('Article renders correctly', () => {
   const component = renderer.create(
     <Article article={article} />
   );
